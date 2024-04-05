@@ -1,0 +1,12 @@
+.section{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background-color: blur;
+    background-image: url();
+}
+
